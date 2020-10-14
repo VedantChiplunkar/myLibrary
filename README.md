@@ -1,2 +1,2 @@
-# myLibrary
-isTouching and bounceOff function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
